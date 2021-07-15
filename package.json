@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/R-Mac/RM_Bootstrap4_Tutorial/issues"
   },
-  "homepage": "https://github.com/R-Mac/RM_Bootstrap4_Tutorial#readme"
+  "homepage": "https://github.com/R-Mac/RM_Bootstrap4_Tutorial#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
 }
