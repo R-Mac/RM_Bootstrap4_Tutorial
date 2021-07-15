@@ -1,0 +1,19 @@
+{
+  "name": "bootstrap-4-course",
+  "version": "1.0.0",
+  "description": "This is a test program to learn Git and Node",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/R-Mac/RM_Bootstrap4_Tutorial.git"
+  },
+  "author": "Ryan Mac.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/R-Mac/RM_Bootstrap4_Tutorial/issues"
+  },
+  "homepage": "https://github.com/R-Mac/RM_Bootstrap4_Tutorial#readme"
+}
